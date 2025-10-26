@@ -3,7 +3,7 @@
 Welcome to **BarberFlow**, the ultimate online barbershop experience! ✂️  
 Check available hours, browse haircut styles, and book your appointment in advance — **no more waiting in queues!**
 
-![BarberFlow Hero](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/assets/barberflow-hero.png)
+![BarberFlow Hero](1.png)
 
 ---
 
